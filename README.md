@@ -30,8 +30,8 @@ An interactive Power BI dashboard providing insights into Ola ride data, includi
 
 ## 📁 Files Included
 
-- `Ola_Dashboard.pbix` – Power BI dashboard file
-- `cleaned_data.xlsx` – Preprocessed data used for the dashboard
+- `data analytics.pbix` – Power BI dashboard file
+- `Bookings.csv` – Preprocessed data used for the dashboard
 - `README.md` – Project documentation
 
 ---
